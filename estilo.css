@@ -11,7 +11,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background: #e8e8e8;
+  background: #ac3030;
 }
 
 
@@ -34,7 +34,7 @@ body {
 
 
   /* A transparência da imagem revela este fundo branco. */
-  background: white;
+  background: rgb(241, 232, 232);
 
 
   box-shadow: 0 2px 5px #0005;
